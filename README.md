@@ -1,5 +1,11 @@
+<h1>Hi, I'm Sergio Martín García 👋</h1>
+
 # About Me:
-<h2>My name is Martín García, I 'm currently living in Tucumán, Argentina<br>I'm finish my study as programmer in Technological University<br>I'm currently learning development web Front-End in academy CoderHouse<br>I colaborate with in many proyects using scrum methodology</h2>  
+
+<h2>I 'm currently living in Tucumán, Argentina
+I'm finishing my studies as developer in Technological University
+I'm currently learning development web Front-End in academy CoderHouse
+I have been part in many proyects using scrum methodology</h2>
 
 
 # 💻 Tech Stack:
