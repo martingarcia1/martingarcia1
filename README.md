@@ -1,5 +1,5 @@
-# 💫 About Me:
-My name is Martín García, I 'm currently living in Tucumán, Argentina<br>I'm finish my study as programmer in Technological University<br>I'm currently learning development web Front-End in academy CoderHouse<br>I colaborate with in many proyects using scrum methodology  
+# About Me:
+<h1>My name is Martín García, I 'm currently living in Tucumán, Argentina<br>I'm finish my study as programmer in Technological University<br>I'm currently learning development web Front-End in academy CoderHouse<br>I colaborate with in many proyects using scrum methodology</h1>  
 
 
 # 💻 Tech Stack:
