@@ -2,7 +2,7 @@
 
 # About Me:
 
-<h2>I 'm currently living in Tucumán, Argentina
+<h2>I 'm currently living in Tucumán, Argentina <br>
 I'm finishing my studies as developer in Technological University
 I'm currently learning development web Front-End in academy CoderHouse
 I have been part in many proyects using scrum methodology</h2>
