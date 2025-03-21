@@ -1,4 +1,11 @@
-## Hi there 👋
+<h1>Hi, I'm Sergio Martín García👋</h1>
+
+<br>
+<!-- Start Introduction -->
+<h2>About me 😆</h2>
+<p aling = "left">
+  
+</p>
 
 <!--
 **martingarcia1/martingarcia1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
