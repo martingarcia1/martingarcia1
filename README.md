@@ -18,7 +18,7 @@ I have been part in many proyects using scrum methodology</h2>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
+<!--### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=martingarcia1&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
